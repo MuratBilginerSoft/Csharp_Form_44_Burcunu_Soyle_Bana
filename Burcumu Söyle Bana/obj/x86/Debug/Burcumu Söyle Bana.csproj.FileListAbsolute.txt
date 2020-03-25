@@ -1,0 +1,24 @@
+C:\Users\murat\Desktop\ \Yeni klasör\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu_Söyle_Bana.Form1.resources
+C:\Users\murat\Desktop\ \Yeni klasör\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu_Söyle_Bana.Properties.Resources.resources
+C:\Users\murat\Desktop\ \Yeni klasör\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \Yeni klasör\Burcumu Söyle Bana\Burcumu Söyle Bana\bin\Debug\Burcumu Söyle Bana.exe
+C:\Users\murat\Desktop\ \Yeni klasör\Burcumu Söyle Bana\Burcumu Söyle Bana\bin\Debug\Burcumu Söyle Bana.pdb
+C:\Users\murat\Desktop\ \Yeni klasör\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.exe
+C:\Users\murat\Desktop\ \Yeni klasör\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.pdb
+C:\Users\murat\Desktop\ \Yeni klasör\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.csprojResolveAssemblyReference.cache
+C:\Users\Ncfkr\Desktop\14 Kodbank C# Görsel Programlama 14 Burcumu Söyle\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.exe
+C:\Users\Ncfkr\Desktop\14 Kodbank C# Görsel Programlama 14 Burcumu Söyle\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.pdb
+C:\Users\Ncfkr\Desktop\14 Kodbank C# Görsel Programlama 14 Burcumu Söyle\Burcumu Söyle Bana\Burcumu Söyle Bana\bin\Debug\Burcumu Söyle Bana.exe
+C:\Users\Ncfkr\Desktop\14 Kodbank C# Görsel Programlama 14 Burcumu Söyle\Burcumu Söyle Bana\Burcumu Söyle Bana\bin\Debug\Burcumu Söyle Bana.pdb
+C:\Users\Ncfkr\Desktop\14 Kodbank C# Görsel Programlama 14 Burcumu Söyle\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.csprojResolveAssemblyReference.cache
+C:\Users\Ncfkr\Desktop\14 Kodbank C# Görsel Programlama 14 Burcumu Söyle\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu_Söyle_Bana.Form1.resources
+C:\Users\Ncfkr\Desktop\14 Kodbank C# Görsel Programlama 14 Burcumu Söyle\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu_Söyle_Bana.Properties.Resources.resources
+C:\Users\Ncfkr\Desktop\14 Kodbank C# Görsel Programlama 14 Burcumu Söyle\Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\11 Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.exe
+F:\04 - Yazılım\04 - Form Projeleri\11 Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.pdb
+F:\04 - Yazılım\04 - Form Projeleri\11 Burcumu Söyle Bana\Burcumu Söyle Bana\bin\Debug\Burcumu Söyle Bana.exe
+F:\04 - Yazılım\04 - Form Projeleri\11 Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\11 Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu_Söyle_Bana.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\11 Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu_Söyle_Bana.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\11 Burcumu Söyle Bana\Burcumu Söyle Bana\obj\x86\Debug\Burcumu Söyle Bana.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\11 Burcumu Söyle Bana\Burcumu Söyle Bana\bin\Debug\Burcumu Söyle Bana.pdb
